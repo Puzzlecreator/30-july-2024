@@ -1,0 +1,260 @@
+body{
+    color: #444;
+    font: normal 100% arial;
+    background-color: #fff;
+}
+.Home nav ul {
+    display: flex;
+    color: white;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.Home li{
+    color: #d8dbde;
+    
+}
+.Home nav ul li a{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+ul nav{
+    list-style: none;
+    list-style-image: none;
+    
+}
+.text
+{
+    color: rgb(255, 255, 255);
+}
+.text a{
+    color: yellow;
+}
+.input{
+    text-align: right;
+}
+
+.searchbar{
+    align-items: right;
+    text-align: right;
+}
+
+.Footer{
+    text-align: left;
+    justify-content: space-around;
+    background-color: grey;
+}
+
+.copyright {
+    background-color:  rgb(23, 48, 189);
+    color: aliceblue;
+    text-align: center;
+}
+.copyright a{
+    color: aliceblue;
+    justify-content: space-around;
+    text-align: center;
+}
+.copyright ul{
+    justify-content: space-evenly;
+}
+ul{
+    list-style: none;
+}
+
+.header{
+    background-color: aqua;
+    list-style-type: none;
+    width: 50% 50%; 
+}
+.header button{
+    text-align: right;
+}
+.header input{
+    text-align: right;
+}
+.picture{
+    text-align: left;
+    margin: 50px;
+    
+}
+.picture input button {
+    float: end;
+    margin-left: 50px;
+    padding-left: 50px;
+}
+
+.darkheader nav ul {
+    color: white;
+    list-style-type: none;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.header-color {
+    background-color: rgb(23, 48, 189);
+    color: white;
+
+}
+
+ul{
+    display: flex;
+    text-anchor: middle;
+}
+.d-flex ul a li{
+    display: flex;
+    margin: auto;
+    padding: auto;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.alltogether{
+    justify-content: space-evenly;
+}
+.columns {
+justify-content: space-evenly;
+background-color: grey;
+}    
+
+.header-input{
+    max-width: fit-content;
+    background-color: aqua;
+    border: 50%;
+}
+*{
+    box-sizing: border-box;
+}
+.top{
+    text-align: center;
+
+}
+.row
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: table;
+    clear: both;
+    
+}
+div{
+    display: block;
+    unicode-bidi: isolate;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    
+}
+.small-widget{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    border-radius: 0% solid;
+}
+
+.small-widget p a{
+    background-color: #b9b5b5;
+}
+.latest-news{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+}
+.latest-news h2 a{
+   length: 100%;
+   float: right;
+
+}
+h2{
+    font-weight: normal;
+}
+.upcoming-events{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+}
+.upcoming-events h2 span a{
+    float:right;
+    color: purple;
+}
+.success-stories 
+{   
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+    
+}
+.success-stories h2 span a
+{   
+    color: purple;
+    float: right;
+    
+}
+.success-stories blockquote{
+    background-color: #ffe590;
+}
+.success-stories p{
+    font-size: 0.875;
+}
+.use-python-for{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+}
+.python-tralala{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+    background-color: #d8dbde;
+    font-size: 1.3em;
+}
+.python-software-foundation{
+    border:  solid;
+    padding: 1.25em;
+    box-sizing: border-box;
+    margin: 0 0 0.1rem;
+    background-color: rgb(11, 11, 116);
+    color: white;
+}
+.python-software-foundation span a{
+    color:yellow
+}
+.become{
+    color: #ffe590;
+}
+.donate{
+    color: #ffe590;
+}
+.python{
+    color: #ffe590;
+}
+.tag{
+    color: #666;
+    padding: 0.2em 0.4em 0.1em;
+    background-color: #e6e8ea;
+}
+.upce-a{
+    color: #666;
+    padding: 0.2em 0.4em 0.1em;
+    background-color: #e6e8ea;
+}
+.lna{
+    color: #666;
+    padding: 0.2em 0.4em 0.1em;
+    background-color: #e6e8ea;
+}
+.darkheader nav ul li a{
+    color: #d8dbde;
+}
+.spread {
+    justify-content: space-between;
+    text-align:inherit;
+}
+/*ktu u lodha*/
